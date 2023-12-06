@@ -1,0 +1,15 @@
+one way dataflow in react
+App -> Pet
+but not Pet -> App
+
+data flow from parent to child
+
+
+npm init -y
+npm i -D prettier@2.7.1
+npm i -D eslint@8.24.0 eslint-config-prettier@8.5.0
+npm i -D vite@3.1.4 @vitejs/plugin-react@2.1.0
+
+npm i -D vite@3.1.4 @vitejs/plugin-react@2.1.0
+npm i react@18.2.0 react-dom@18.2.0
+
